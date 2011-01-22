@@ -7,6 +7,7 @@ Group: Sound
 License: LGPLv2+
 Source0: ftp://ftp.kde.org/pub/kde/stable/phonon/phonon-backend-xine/%version/phonon-backend-xine-%version.tar.bz2
 BuildRequires: libxine-devel
+BuildRequires: libxcb-devel
 BuildRequires: kde4-macros
 BuildRequires: automoc
 BuildRequires: phonon-devel >= 2:4.4.4
