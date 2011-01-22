@@ -16,10 +16,10 @@ Requires: xine-plugins
 Suggests: xine-pulse
 Provides: phonon-backend
 
-%description -n phonon-xine
+%description
 Xine backend to Phonon.
 
-%files -n phonon-xine
+%files
 %defattr(-,root,root)
 %dir %_kde_libdir/kde4/plugins/phonon_backend
 %_kde_libdir/kde4/plugins/phonon_backend/phonon_xine.so
