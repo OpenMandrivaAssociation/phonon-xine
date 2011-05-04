@@ -1,7 +1,7 @@
 Name: phonon-xine
 Summary: Xine backend to Phonon
 Version: 4.4.4
-Release: %mkrel 1
+Release: %mkrel 2
 Epoch: 2
 Group: Sound
 License: LGPLv2+
