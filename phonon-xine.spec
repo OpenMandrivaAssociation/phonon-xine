@@ -5,7 +5,7 @@ Release: %mkrel 2
 Epoch: 2
 Group: Sound
 License: LGPLv2+
-URL: http://phonon.kde.org
+URL: https://phonon.kde.org
 Source0: ftp://ftp.kde.org/pub/kde/stable/phonon/phonon-backend-xine/%version/phonon-backend-xine-%version.tar.bz2
 BuildRequires: libxine-devel
 BuildRequires: libxcb-devel
